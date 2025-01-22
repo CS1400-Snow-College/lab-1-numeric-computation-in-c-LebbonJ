@@ -13,3 +13,7 @@ Console.WriteLine(c / d);
 double e = Math.PI;
 double r = 2.5;
 Console.WriteLine(e * r * r);
+
+double radius = 2.50;
+double area = Math.PI * radius * radius;
+Console.WriteLine(area);
