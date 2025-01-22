@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lab-1-numeric-computation-in-c-LebbonJ")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3afeb8871a88e7503bd9cc37306a1309733efa55")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc87118b9cca043758d0865f3cd2744fa9171ab9")]
 [assembly: System.Reflection.AssemblyProductAttribute("lab-1-numeric-computation-in-c-LebbonJ")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lab-1-numeric-computation-in-c-LebbonJ")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
